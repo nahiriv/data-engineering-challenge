@@ -2,38 +2,38 @@
 
 ## Índice
 Parte 1: Ingesta de Datos
-1. **Introducción**
-   - 1.1. Contexto del problema
-   - 1.2. Objetivo de la solución
+1. [Introducción](#introducción)
+   - [1.1. Contexto del problema](#11-contexto-del-problema)
+   - [1.2. Objetivo de la solución](#12-objetivo-de-la-solución)
 
-2. **Diseño del Pipeline**
-   - 2.1. Esquema general
-   - 2.2. Descripción de las etapas
-     - 2.2.1. Extracción
-     - 2.2.2. Transformación inicial
-     - 2.2.3. Carga al Datalake
-     - 2.2.4. Carga en Base Relacional
+2. [Diseño del Pipeline](#diseño-del-pipeline)
+   - [2.1. Esquema general](#21-esquema-general)
+   - [2.2. Descripción de las etapas](#22-descripción-de-las-etapas)
+     - [2.2.1. Extracción](#221-extracción)
+     - [2.2.2. Transformación inicial](#222-transformación-inicial)
+     - [2.2.3. Carga al Datalake](#223-carga-al-datalake)
+     - [2.2.4. Carga en Base Relacional](#224-carga-en-base-relacional)
 
-3. **Stack Tecnológico Propuesto**
-   - 3.1. Herramientas para cada etapa
-   - 3.2. Ventajas de usar GCP y Data Fusion
+3. [Stack Tecnológico Propuesto](#stack-tecnológico-propuesto)
+   - [3.1. Herramientas para cada etapa](#31-herramientas-para-cada-etapa)
+   - [3.2. Ventajas de usar GCP y Data Fusion](#32-ventajas-de-usar-gcp-y-data-fusion)
 
-4. **Planificación del Proyecto**
-   - 4.1. Requerimientos previos
-   - 4.2. Etapas de implementación
-   - 4.3. Plazos estimados
+4. [Planificación del Proyecto](#planificación-del-proyecto)
+   - [4.1. Requerimientos previos](#41-requerimientos-previos)
+   - [4.2. Etapas de implementación](#42-etapas-de-implementación)
+   - [4.3. Plazos estimados](#43-plazos-estimados)
 
-5. **Estrategia de Monitoreo**
-   - 5.1. Alertas y métricas clave
-   - 5.2. Visualización de estados
+5. [Estrategia de Monitoreo](#estrategia-de-monitoreo)
+   - [5.1. Alertas y métricas clave](#51-alertas-y-métricas-clave)
+   - [5.2. Visualización de estados](#52-visualización-de-estados)
 
-6. **Análisis de Riesgos y Puntos de Falla**
-   - 6.1. Identificación de posibles fallos
-   - 6.2. Mitigación de riesgos
+6. [Análisis de Riesgos y Puntos de Falla](#análisis-de-riesgos-y-puntos-de-falla)
+   - [6.1. Identificación de posibles fallos](#61-identificación-de-posibles-fallos)
+   - [6.2. Mitigación de riesgos](#62-mitigación-de-riesgos)
 
-7. **Conclusión**
-   - 7.1. Resumen de la solución
-   - 7.2. Beneficios esperados
+7. [Conclusión](#conclusión)
+   - [7.1. Resumen de la solución](#71-resumen-de-la-solución)
+   - [7.2. Beneficios esperados](#72-beneficios-esperados)
 
 ## 1. Introducción
 
