@@ -2,7 +2,7 @@
 
 ## Índice
 Parte 1: Ingesta de Datos
-1. [Introducción](#introducción)
+1. [Introducción](#1. Introducción)
    - [1.1. Contexto del problema](#11-contexto-del-problema)
    - [1.2. Objetivo de la solución](#12-objetivo-de-la-solución)
 
