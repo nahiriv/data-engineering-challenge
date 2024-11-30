@@ -47,6 +47,7 @@ Implementar un pipeline eficiente y escalable sobre Google Cloud Platform (GCP) 
 
 ### 2.1. Esquema general
 <img src="https://github.com/nahiriv/data-engineering-challenge/blob/main/pipeline-diagram.png" alt="Esquema del Pipeline" style="max-width:100%; height:auto;">
+
 El pipeline se organiza en etapas principales:
 - Extracción
 - Transformación inicial (Staging)
