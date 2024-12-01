@@ -129,4 +129,5 @@ El pipeline diseñado es escalable, eficiente y está alineado con los objetivos
 - Escalabilidad para soportar crecimiento futuro.
 - Mayor confiabilidad en la operación del pipeline.
 
+[Parte 2: Transformaciones de datos](#parte-2-transformaciones-datos-acmeipynb)
 
