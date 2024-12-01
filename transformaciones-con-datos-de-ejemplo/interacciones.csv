@@ -1,0 +1,9 @@
+case_id,interaction_id,interaction_type,representante,int_date
+32,1132,user_contact,,01/02/2020 10:54
+32,1133,rep_response,ggutierrez,01/02/2020 11:45
+32,1134,user_recontact,,02/02/2020 9:45
+32,1135,rep_response,jperez,02/02/2020 12:35
+32,1136,rep_derivation,jperez,02/02/2020 12:39
+32,1137,rep_response,pcruz,02/02/2020 20:39
+32,1138,rep_case_closed,pcruz,02/02/2020 20:41
+32,1139,survey_sent,pcruz,02/02/2020 20:42
