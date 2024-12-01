@@ -1,0 +1,1001 @@
+survey_id,case_id,nps_score,ps_comment
+002,0032,7,
+003,0033,6,
+004,0034,10,
+005,0035,0,No cumplieron mis expectativas
+006,0036,5,No me gusto nada
+007,0037,7,Aceptable
+008,0038,2,
+009,0039,7,
+010,0040,0,
+011,0041,8,Aceptable
+012,0042,9,Sobresaliente
+013,0043,8,
+014,0044,8,
+015,0045,5,No me gusto nada
+016,0046,7,Podria mejorar
+017,0047,0,
+018,0048,6,No me gusto nada
+019,0049,9,
+020,0050,5,
+021,0051,8,
+022,0052,9,Sobresaliente
+023,0053,10,Excelente
+024,0054,9,Recomendaria sin duda
+025,0055,10,
+026,0056,10,Excelente
+027,0057,8,
+028,0058,9,
+029,0059,7,Aceptable
+030,0060,0,
+031,0061,6,
+032,0062,6,
+033,0063,7,Podria mejorar
+034,0064,5,No me gusto nada
+035,0065,1,Deficiente
+036,0066,10,
+037,0067,8,Aceptable
+038,0068,8,
+039,0069,2,
+040,0070,9,
+041,0071,8,
+042,0072,6,
+043,0073,8,"Satisfactorio, pero hay aspectos a mejorar"
+044,0074,1,No me gusto nada
+045,0075,10,
+046,0076,4,No me gusto nada
+047,0077,7,
+048,0078,8,
+049,0079,9,Sobresaliente
+050,0080,4,No cumplieron mis expectativas
+051,0081,10,
+052,0082,9,Sobresaliente
+053,0083,5,No cumplieron mis expectativas
+054,0084,3,No cumplieron mis expectativas
+055,0085,2,No me gusto nada
+056,0086,7,"Satisfactorio, pero hay aspectos a mejorar"
+057,0087,8,
+058,0088,2,
+059,0089,9,
+060,0090,9,Excelente
+061,0091,3,
+062,0092,5,No cumplieron mis expectativas
+063,0093,7,Podria mejorar
+064,0094,5,
+065,0095,0,Deficiente
+066,0096,8,Podria mejorar
+067,0097,8,Podria mejorar
+068,0098,5,Deficiente
+069,0099,9,Sobresaliente
+070,0100,8,
+071,0101,6,No me gusto nada
+072,0102,0,No me gusto nada
+073,0103,9,Recomendaria sin duda
+074,0104,2,Deficiente
+075,0105,4,
+076,0106,6,
+077,0107,10,
+078,0108,2,No cumplieron mis expectativas
+079,0109,9,Recomendaria sin duda
+080,0110,10,
+081,0111,9,
+082,0112,9,
+083,0113,10,Excelente
+084,0114,1,No cumplieron mis expectativas
+085,0115,7,
+086,0116,10,
+087,0117,3,
+088,0118,9,Recomendaria sin duda
+089,0119,10,Sobresaliente
+090,0120,5,No cumplieron mis expectativas
+091,0121,10,Recomendaria sin duda
+092,0122,9,
+093,0123,7,"Satisfactorio, pero hay aspectos a mejorar"
+094,0124,10,
+095,0125,8,
+096,0126,1,
+097,0127,8,Podria mejorar
+098,0128,10,Sobresaliente
+099,0129,3,
+100,0130,7,
+101,0131,2,No cumplieron mis expectativas
+102,0132,9,Recomendaria sin duda
+103,0133,7,"Satisfactorio, pero hay aspectos a mejorar"
+104,0134,1,No me gusto nada
+105,0135,4,
+106,0136,9,Recomendaria sin duda
+107,0137,7,Podria mejorar
+108,0138,1,No me gusto nada
+109,0139,7,
+110,0140,9,
+111,0141,8,Podria mejorar
+112,0142,8,
+113,0143,8,
+114,0144,2,Deficiente
+115,0145,8,
+116,0146,9,Sobresaliente
+117,0147,9,Recomendaria sin duda
+118,0148,8,
+119,0149,8,"Satisfactorio, pero hay aspectos a mejorar"
+120,0150,2,No cumplieron mis expectativas
+121,0151,3,
+122,0152,9,
+123,0153,3,
+124,0154,9,Excelente
+125,0155,9,Excelente
+126,0156,10,
+127,0157,8,"Satisfactorio, pero hay aspectos a mejorar"
+128,0158,9,
+129,0159,7,Podria mejorar
+130,0160,10,Sobresaliente
+131,0161,4,No cumplieron mis expectativas
+132,0162,10,Recomendaria sin duda
+133,0163,10,Excelente
+134,0164,8,
+135,0165,8,Aceptable
+136,0166,10,Sobresaliente
+137,0167,6,No me gusto nada
+138,0168,9,Excelente
+139,0169,7,
+140,0170,6,No cumplieron mis expectativas
+141,0171,9,
+142,0172,3,No me gusto nada
+143,0173,6,
+144,0174,9,Recomendaria sin duda
+145,0175,0,No me gusto nada
+146,0176,7,"Satisfactorio, pero hay aspectos a mejorar"
+147,0177,7,"Satisfactorio, pero hay aspectos a mejorar"
+148,0178,8,
+149,0179,5,
+150,0180,7,Podria mejorar
+151,0181,10,Sobresaliente
+152,0182,8,Podria mejorar
+153,0183,10,Excelente
+154,0184,8,
+155,0185,10,Excelente
+156,0186,0,No cumplieron mis expectativas
+157,0187,10,Excelente
+158,0188,10,Sobresaliente
+159,0189,6,
+160,0190,7,"Satisfactorio, pero hay aspectos a mejorar"
+161,0191,8,
+162,0192,0,No cumplieron mis expectativas
+163,0193,9,Sobresaliente
+164,0194,6,Deficiente
+165,0195,2,Deficiente
+166,0196,2,
+167,0197,4,No me gusto nada
+168,0198,9,Recomendaria sin duda
+169,0199,4,
+170,0200,8,
+171,0201,8,Podria mejorar
+172,0202,10,Excelente
+173,0203,8,
+174,0204,10,
+175,0205,0,No me gusto nada
+176,0206,2,
+177,0207,1,
+178,0208,8,
+179,0209,0,
+180,0210,5,
+181,0211,10,Recomendaria sin duda
+182,0212,9,
+183,0213,2,
+184,0214,10,
+185,0215,9,Excelente
+186,0216,7,
+187,0217,7,
+188,0218,8,"Satisfactorio, pero hay aspectos a mejorar"
+189,0219,3,No cumplieron mis expectativas
+190,0220,5,
+191,0221,9,Recomendaria sin duda
+192,0222,1,
+193,0223,10,Sobresaliente
+194,0224,10,
+195,0225,0,
+196,0226,9,
+197,0227,8,"Satisfactorio, pero hay aspectos a mejorar"
+198,0228,8,Aceptable
+199,0229,8,Aceptable
+200,0230,8,
+201,0231,5,No cumplieron mis expectativas
+202,0232,5,No me gusto nada
+203,0233,6,
+204,0234,10,
+205,0235,7,"Satisfactorio, pero hay aspectos a mejorar"
+206,0236,4,
+207,0237,9,
+208,0238,7,"Satisfactorio, pero hay aspectos a mejorar"
+209,0239,9,
+210,0240,8,
+211,0241,7,Podria mejorar
+212,0242,7,
+213,0243,0,Deficiente
+214,0244,8,Podria mejorar
+215,0245,8,Podria mejorar
+216,0246,9,Sobresaliente
+217,0247,6,
+218,0248,7,
+219,0249,10,
+220,0250,9,
+221,0251,5,
+222,0252,7,Podria mejorar
+223,0253,8,"Satisfactorio, pero hay aspectos a mejorar"
+224,0254,7,Aceptable
+225,0255,5,No me gusto nada
+226,0256,8,
+227,0257,8,
+228,0258,8,
+229,0259,10,
+230,0260,9,
+231,0261,8,Aceptable
+232,0262,3,Deficiente
+233,0263,8,Podria mejorar
+234,0264,8,"Satisfactorio, pero hay aspectos a mejorar"
+235,0265,10,
+236,0266,8,
+237,0267,7,Aceptable
+238,0268,1,Deficiente
+239,0269,10,
+240,0270,10,Sobresaliente
+241,0271,5,
+242,0272,1,
+243,0273,5,
+244,0274,8,
+245,0275,7,Aceptable
+246,0276,7,
+247,0277,7,
+248,0278,10,
+249,0279,7,
+250,0280,9,Recomendaria sin duda
+251,0281,10,
+252,0282,8,
+253,0283,3,
+254,0284,0,
+255,0285,9,Excelente
+256,0286,3,
+257,0287,9,
+258,0288,10,
+259,0289,8,
+260,0290,2,Deficiente
+261,0291,9,
+262,0292,8,Aceptable
+263,0293,6,Deficiente
+264,0294,7,"Satisfactorio, pero hay aspectos a mejorar"
+265,0295,7,Podria mejorar
+266,0296,8,
+267,0297,7,"Satisfactorio, pero hay aspectos a mejorar"
+268,0298,8,
+269,0299,9,
+270,0300,3,Deficiente
+271,0301,6,
+272,0302,7,
+273,0303,5,Deficiente
+274,0304,0,No me gusto nada
+275,0305,4,No me gusto nada
+276,0306,10,Excelente
+277,0307,10,Sobresaliente
+278,0308,9,Sobresaliente
+279,0309,8,"Satisfactorio, pero hay aspectos a mejorar"
+280,0310,7,Aceptable
+281,0311,8,
+282,0312,8,
+283,0313,9,Recomendaria sin duda
+284,0314,3,No cumplieron mis expectativas
+285,0315,4,Deficiente
+286,0316,9,Recomendaria sin duda
+287,0317,10,
+288,0318,9,Excelente
+289,0319,7,
+290,0320,3,No me gusto nada
+291,0321,5,Deficiente
+292,0322,6,No cumplieron mis expectativas
+293,0323,7,Podria mejorar
+294,0324,4,No cumplieron mis expectativas
+295,0325,8,
+296,0326,7,Podria mejorar
+297,0327,10,Excelente
+298,0328,3,
+299,0329,7,
+300,0330,7,
+301,0331,7,Aceptable
+302,0332,7,Podria mejorar
+303,0333,9,
+304,0334,6,
+305,0335,3,No me gusto nada
+306,0336,9,Recomendaria sin duda
+307,0337,0,No cumplieron mis expectativas
+308,0338,10,
+309,0339,9,Excelente
+310,0340,7,
+311,0341,10,Sobresaliente
+312,0342,5,
+313,0343,8,
+314,0344,7,
+315,0345,7,
+316,0346,8,
+317,0347,8,
+318,0348,9,
+319,0349,8,
+320,0350,8,Aceptable
+321,0351,7,"Satisfactorio, pero hay aspectos a mejorar"
+322,0352,9,
+323,0353,9,
+324,0354,5,No cumplieron mis expectativas
+325,0355,9,
+326,0356,0,
+327,0357,1,No cumplieron mis expectativas
+328,0358,8,
+329,0359,8,
+330,0360,0,
+331,0361,10,
+332,0362,2,Deficiente
+333,0363,1,Deficiente
+334,0364,6,No me gusto nada
+335,0365,4,
+336,0366,3,
+337,0367,8,
+338,0368,8,Podria mejorar
+339,0369,7,
+340,0370,10,
+341,0371,3,No cumplieron mis expectativas
+342,0372,9,Recomendaria sin duda
+343,0373,5,No me gusto nada
+344,0374,2,No cumplieron mis expectativas
+345,0375,7,
+346,0376,1,No cumplieron mis expectativas
+347,0377,7,
+348,0378,8,"Satisfactorio, pero hay aspectos a mejorar"
+349,0379,3,No cumplieron mis expectativas
+350,0380,4,
+351,0381,10,Sobresaliente
+352,0382,4,No me gusto nada
+353,0383,7,"Satisfactorio, pero hay aspectos a mejorar"
+354,0384,9,Sobresaliente
+355,0385,3,
+356,0386,3,
+357,0387,10,
+358,0388,10,Excelente
+359,0389,9,Sobresaliente
+360,0390,0,No cumplieron mis expectativas
+361,0391,10,
+362,0392,7,"Satisfactorio, pero hay aspectos a mejorar"
+363,0393,2,No me gusto nada
+364,0394,9,Excelente
+365,0395,7,
+366,0396,7,"Satisfactorio, pero hay aspectos a mejorar"
+367,0397,6,No cumplieron mis expectativas
+368,0398,10,Recomendaria sin duda
+369,0399,10,
+370,0400,5,
+371,0401,0,
+372,0402,9,Sobresaliente
+373,0403,2,
+374,0404,9,
+375,0405,6,
+376,0406,10,
+377,0407,9,Sobresaliente
+378,0408,10,Sobresaliente
+379,0409,8,
+380,0410,8,"Satisfactorio, pero hay aspectos a mejorar"
+381,0411,8,
+382,0412,7,
+383,0413,9,
+384,0414,10,
+385,0415,7,"Satisfactorio, pero hay aspectos a mejorar"
+386,0416,0,
+387,0417,5,
+388,0418,3,No me gusto nada
+389,0419,8,
+390,0420,7,Podria mejorar
+391,0421,8,"Satisfactorio, pero hay aspectos a mejorar"
+392,0422,7,
+393,0423,10,Excelente
+394,0424,2,
+395,0425,8,
+396,0426,10,
+397,0427,10,
+398,0428,10,Recomendaria sin duda
+399,0429,1,No me gusto nada
+400,0430,3,
+401,0431,6,
+402,0432,7,Podria mejorar
+403,0433,9,
+404,0434,2,No me gusto nada
+405,0435,9,Recomendaria sin duda
+406,0436,9,
+407,0437,10,
+408,0438,9,Recomendaria sin duda
+409,0439,0,No cumplieron mis expectativas
+410,0440,7,
+411,0441,8,Podria mejorar
+412,0442,7,
+413,0443,7,Aceptable
+414,0444,7,Aceptable
+415,0445,10,
+416,0446,9,Recomendaria sin duda
+417,0447,9,Excelente
+418,0448,5,Deficiente
+419,0449,6,No cumplieron mis expectativas
+420,0450,10,Excelente
+421,0451,3,No cumplieron mis expectativas
+422,0452,2,
+423,0453,9,
+424,0454,6,No cumplieron mis expectativas
+425,0455,9,Sobresaliente
+426,0456,6,Deficiente
+427,0457,7,Aceptable
+428,0458,8,Aceptable
+429,0459,8,
+430,0460,5,
+431,0461,3,Deficiente
+432,0462,9,
+433,0463,0,Deficiente
+434,0464,7,
+435,0465,5,
+436,0466,7,
+437,0467,2,No cumplieron mis expectativas
+438,0468,9,
+439,0469,10,Recomendaria sin duda
+440,0470,10,Excelente
+441,0471,5,No cumplieron mis expectativas
+442,0472,10,
+443,0473,10,
+444,0474,2,Deficiente
+445,0475,10,Excelente
+446,0476,2,No me gusto nada
+447,0477,7,
+448,0478,6,No me gusto nada
+449,0479,7,
+450,0480,0,Deficiente
+451,0481,8,
+452,0482,8,
+453,0483,0,No cumplieron mis expectativas
+454,0484,7,Podria mejorar
+455,0485,8,
+456,0486,7,"Satisfactorio, pero hay aspectos a mejorar"
+457,0487,8,
+458,0488,2,
+459,0489,5,
+460,0490,5,Deficiente
+461,0491,0,
+462,0492,5,No me gusto nada
+463,0493,0,
+464,0494,10,Sobresaliente
+465,0495,10,
+466,0496,7,
+467,0497,5,
+468,0498,4,
+469,0499,8,
+470,0500,7,
+471,0501,8,Podria mejorar
+472,0502,0,No me gusto nada
+473,0503,8,Aceptable
+474,0504,0,
+475,0505,8,
+476,0506,7,Podria mejorar
+477,0507,2,No cumplieron mis expectativas
+478,0508,8,"Satisfactorio, pero hay aspectos a mejorar"
+479,0509,8,
+480,0510,2,No cumplieron mis expectativas
+481,0511,1,No cumplieron mis expectativas
+482,0512,6,
+483,0513,7,"Satisfactorio, pero hay aspectos a mejorar"
+484,0514,7,
+485,0515,5,No me gusto nada
+486,0516,4,
+487,0517,9,Sobresaliente
+488,0518,7,
+489,0519,2,No me gusto nada
+490,0520,4,
+491,0521,3,No cumplieron mis expectativas
+492,0522,1,No cumplieron mis expectativas
+493,0523,2,
+494,0524,7,
+495,0525,1,
+496,0526,10,
+497,0527,10,Excelente
+498,0528,4,
+499,0529,9,
+500,0530,10,
+501,0531,8,
+502,0532,8,
+503,0533,5,
+504,0534,6,Deficiente
+505,0535,0,
+506,0536,3,No cumplieron mis expectativas
+507,0537,1,
+508,0538,0,Deficiente
+509,0539,7,Podria mejorar
+510,0540,3,No cumplieron mis expectativas
+511,0541,8,"Satisfactorio, pero hay aspectos a mejorar"
+512,0542,2,No cumplieron mis expectativas
+513,0543,9,Recomendaria sin duda
+514,0544,5,Deficiente
+515,0545,9,Recomendaria sin duda
+516,0546,8,
+517,0547,10,Recomendaria sin duda
+518,0548,7,"Satisfactorio, pero hay aspectos a mejorar"
+519,0549,9,
+520,0550,4,
+521,0551,1,
+522,0552,8,"Satisfactorio, pero hay aspectos a mejorar"
+523,0553,10,
+524,0554,7,
+525,0555,10,
+526,0556,7,
+527,0557,7,
+528,0558,7,
+529,0559,5,No cumplieron mis expectativas
+530,0560,0,Deficiente
+531,0561,9,Sobresaliente
+532,0562,8,
+533,0563,2,Deficiente
+534,0564,7,
+535,0565,6,No me gusto nada
+536,0566,10,Recomendaria sin duda
+537,0567,2,No cumplieron mis expectativas
+538,0568,9,
+539,0569,2,
+540,0570,3,Deficiente
+541,0571,10,
+542,0572,10,
+543,0573,8,Aceptable
+544,0574,8,
+545,0575,8,Aceptable
+546,0576,6,No cumplieron mis expectativas
+547,0577,9,Sobresaliente
+548,0578,5,No cumplieron mis expectativas
+549,0579,2,
+550,0580,9,Sobresaliente
+551,0581,8,Aceptable
+552,0582,10,Recomendaria sin duda
+553,0583,10,
+554,0584,9,Sobresaliente
+555,0585,8,
+556,0586,1,
+557,0587,8,Podria mejorar
+558,0588,7,Aceptable
+559,0589,0,
+560,0590,10,
+561,0591,9,
+562,0592,6,
+563,0593,10,Sobresaliente
+564,0594,5,Deficiente
+565,0595,5,
+566,0596,10,
+567,0597,8,"Satisfactorio, pero hay aspectos a mejorar"
+568,0598,0,
+569,0599,10,
+570,0600,0,No cumplieron mis expectativas
+571,0601,1,
+572,0602,10,
+573,0603,7,Aceptable
+574,0604,5,
+575,0605,10,Excelente
+576,0606,10,
+577,0607,9,Sobresaliente
+578,0608,10,
+579,0609,7,
+580,0610,5,
+581,0611,10,
+582,0612,7,
+583,0613,7,
+584,0614,8,
+585,0615,3,No me gusto nada
+586,0616,4,No cumplieron mis expectativas
+587,0617,1,
+588,0618,7,
+589,0619,8,Aceptable
+590,0620,9,Sobresaliente
+591,0621,8,Podria mejorar
+592,0622,4,
+593,0623,8,
+594,0624,8,
+595,0625,8,
+596,0626,9,Sobresaliente
+597,0627,10,Sobresaliente
+598,0628,0,Deficiente
+599,0629,10,Recomendaria sin duda
+600,0630,10,Excelente
+601,0631,4,No me gusto nada
+602,0632,3,
+603,0633,2,No cumplieron mis expectativas
+604,0634,9,Excelente
+605,0635,5,Deficiente
+606,0636,0,
+607,0637,7,Podria mejorar
+608,0638,9,
+609,0639,5,
+610,0640,10,Sobresaliente
+611,0641,6,No cumplieron mis expectativas
+612,0642,7,Podria mejorar
+613,0643,0,
+614,0644,7,
+615,0645,7,
+616,0646,3,No me gusto nada
+617,0647,3,
+618,0648,1,
+619,0649,4,
+620,0650,8,
+621,0651,7,
+622,0652,0,
+623,0653,9,
+624,0654,8,
+625,0655,7,
+626,0656,7,
+627,0657,0,
+628,0658,9,
+629,0659,9,
+630,0660,2,
+631,0661,7,
+632,0662,1,No me gusto nada
+633,0663,9,Recomendaria sin duda
+634,0664,9,Sobresaliente
+635,0665,7,"Satisfactorio, pero hay aspectos a mejorar"
+636,0666,0,
+637,0667,10,
+638,0668,9,
+639,0669,5,
+640,0670,9,
+641,0671,6,
+642,0672,9,Excelente
+643,0673,8,
+644,0674,9,
+645,0675,8,"Satisfactorio, pero hay aspectos a mejorar"
+646,0676,3,
+647,0677,9,
+648,0678,10,Sobresaliente
+649,0679,8,
+650,0680,9,
+651,0681,10,
+652,0682,9,
+653,0683,10,
+654,0684,8,
+655,0685,6,No cumplieron mis expectativas
+656,0686,0,
+657,0687,3,
+658,0688,7,
+659,0689,10,
+660,0690,5,
+661,0691,9,Recomendaria sin duda
+662,0692,6,No me gusto nada
+663,0693,9,Sobresaliente
+664,0694,1,
+665,0695,7,
+666,0696,10,
+667,0697,8,"Satisfactorio, pero hay aspectos a mejorar"
+668,0698,6,No cumplieron mis expectativas
+669,0699,3,
+670,0700,9,
+671,0701,9,Sobresaliente
+672,0702,7,"Satisfactorio, pero hay aspectos a mejorar"
+673,0703,6,
+674,0704,3,No cumplieron mis expectativas
+675,0705,7,Aceptable
+676,0706,8,"Satisfactorio, pero hay aspectos a mejorar"
+677,0707,4,
+678,0708,8,"Satisfactorio, pero hay aspectos a mejorar"
+679,0709,9,
+680,0710,6,Deficiente
+681,0711,6,
+682,0712,10,Recomendaria sin duda
+683,0713,8,
+684,0714,7,"Satisfactorio, pero hay aspectos a mejorar"
+685,0715,0,No me gusto nada
+686,0716,3,No cumplieron mis expectativas
+687,0717,7,Podria mejorar
+688,0718,10,Excelente
+689,0719,8,
+690,0720,10,Recomendaria sin duda
+691,0721,10,
+692,0722,4,No cumplieron mis expectativas
+693,0723,9,
+694,0724,9,
+695,0725,6,
+696,0726,5,No cumplieron mis expectativas
+697,0727,3,No me gusto nada
+698,0728,10,
+699,0729,7,
+700,0730,7,
+701,0731,9,Recomendaria sin duda
+702,0732,8,
+703,0733,10,Sobresaliente
+704,0734,8,Podria mejorar
+705,0735,3,Deficiente
+706,0736,9,Excelente
+707,0737,9,Excelente
+708,0738,8,
+709,0739,7,"Satisfactorio, pero hay aspectos a mejorar"
+710,0740,10,Recomendaria sin duda
+711,0741,3,Deficiente
+712,0742,8,Podria mejorar
+713,0743,9,Recomendaria sin duda
+714,0744,4,
+715,0745,8,"Satisfactorio, pero hay aspectos a mejorar"
+716,0746,0,
+717,0747,9,Recomendaria sin duda
+718,0748,9,Recomendaria sin duda
+719,0749,2,No me gusto nada
+720,0750,8,
+721,0751,10,
+722,0752,8,Aceptable
+723,0753,8,"Satisfactorio, pero hay aspectos a mejorar"
+724,0754,8,Aceptable
+725,0755,10,Sobresaliente
+726,0756,10,Excelente
+727,0757,10,
+728,0758,9,Sobresaliente
+729,0759,1,Deficiente
+730,0760,4,
+731,0761,0,
+732,0762,7,
+733,0763,10,
+734,0764,2,Deficiente
+735,0765,8,Aceptable
+736,0766,4,
+737,0767,9,Recomendaria sin duda
+738,0768,2,
+739,0769,10,Excelente
+740,0770,8,
+741,0771,7,Aceptable
+742,0772,6,
+743,0773,10,Sobresaliente
+744,0774,9,Sobresaliente
+745,0775,9,
+746,0776,1,No me gusto nada
+747,0777,8,
+748,0778,7,
+749,0779,9,Excelente
+750,0780,7,Podria mejorar
+751,0781,8,Podria mejorar
+752,0782,1,
+753,0783,9,
+754,0784,4,
+755,0785,7,Aceptable
+756,0786,9,Recomendaria sin duda
+757,0787,7,"Satisfactorio, pero hay aspectos a mejorar"
+758,0788,10,Sobresaliente
+759,0789,8,
+760,0790,2,No cumplieron mis expectativas
+761,0791,5,
+762,0792,2,Deficiente
+763,0793,1,
+764,0794,2,No me gusto nada
+765,0795,7,Aceptable
+766,0796,7,
+767,0797,8,
+768,0798,8,Aceptable
+769,0799,8,"Satisfactorio, pero hay aspectos a mejorar"
+770,0800,0,Deficiente
+771,0801,7,
+772,0802,8,Podria mejorar
+773,0803,1,
+774,0804,4,Deficiente
+775,0805,9,
+776,0806,10,
+777,0807,7,Aceptable
+778,0808,8,Podria mejorar
+779,0809,2,Deficiente
+780,0810,8,
+781,0811,3,
+782,0812,9,Sobresaliente
+783,0813,8,
+784,0814,9,
+785,0815,9,
+786,0816,6,No cumplieron mis expectativas
+787,0817,9,
+788,0818,5,
+789,0819,4,
+790,0820,6,No cumplieron mis expectativas
+791,0821,7,
+792,0822,7,Podria mejorar
+793,0823,7,Podria mejorar
+794,0824,8,
+795,0825,3,No me gusto nada
+796,0826,9,
+797,0827,7,Aceptable
+798,0828,10,Sobresaliente
+799,0829,7,Podria mejorar
+800,0830,2,No me gusto nada
+801,0831,7,
+802,0832,3,
+803,0833,9,
+804,0834,6,
+805,0835,8,"Satisfactorio, pero hay aspectos a mejorar"
+806,0836,7,Aceptable
+807,0837,10,Sobresaliente
+808,0838,10,
+809,0839,6,Deficiente
+810,0840,9,
+811,0841,1,No me gusto nada
+812,0842,4,No me gusto nada
+813,0843,9,Sobresaliente
+814,0844,9,Sobresaliente
+815,0845,8,
+816,0846,2,No cumplieron mis expectativas
+817,0847,7,Podria mejorar
+818,0848,7,
+819,0849,9,
+820,0850,7,
+821,0851,9,
+822,0852,2,
+823,0853,10,Recomendaria sin duda
+824,0854,9,
+825,0855,7,
+826,0856,7,
+827,0857,9,Sobresaliente
+828,0858,6,Deficiente
+829,0859,8,Podria mejorar
+830,0860,2,
+831,0861,5,
+832,0862,7,Aceptable
+833,0863,4,
+834,0864,10,Sobresaliente
+835,0865,7,"Satisfactorio, pero hay aspectos a mejorar"
+836,0866,9,
+837,0867,6,Deficiente
+838,0868,4,
+839,0869,4,
+840,0870,7,"Satisfactorio, pero hay aspectos a mejorar"
+841,0871,7,
+842,0872,10,Sobresaliente
+843,0873,8,Podria mejorar
+844,0874,6,
+845,0875,8,Aceptable
+846,0876,9,
+847,0877,8,
+848,0878,0,
+849,0879,3,No me gusto nada
+850,0880,10,Excelente
+851,0881,3,Deficiente
+852,0882,7,
+853,0883,9,
+854,0884,8,
+855,0885,7,"Satisfactorio, pero hay aspectos a mejorar"
+856,0886,7,
+857,0887,8,
+858,0888,0,
+859,0889,8,
+860,0890,9,Sobresaliente
+861,0891,0,No me gusto nada
+862,0892,10,
+863,0893,9,
+864,0894,9,
+865,0895,8,"Satisfactorio, pero hay aspectos a mejorar"
+866,0896,0,
+867,0897,9,Recomendaria sin duda
+868,0898,9,
+869,0899,9,
+870,0900,7,"Satisfactorio, pero hay aspectos a mejorar"
+871,0901,10,Recomendaria sin duda
+872,0902,10,Sobresaliente
+873,0903,3,
+874,0904,0,
+875,0905,9,Recomendaria sin duda
+876,0906,10,
+877,0907,0,No cumplieron mis expectativas
+878,0908,8,
+879,0909,1,
+880,0910,10,
+881,0911,0,No cumplieron mis expectativas
+882,0912,7,Aceptable
+883,0913,6,
+884,0914,0,
+885,0915,8,
+886,0916,1,
+887,0917,9,Recomendaria sin duda
+888,0918,7,"Satisfactorio, pero hay aspectos a mejorar"
+889,0919,7,Podria mejorar
+890,0920,8,
+891,0921,9,Recomendaria sin duda
+892,0922,8,"Satisfactorio, pero hay aspectos a mejorar"
+893,0923,2,Deficiente
+894,0924,7,"Satisfactorio, pero hay aspectos a mejorar"
+895,0925,1,Deficiente
+896,0926,7,Podria mejorar
+897,0927,1,
+898,0928,10,Recomendaria sin duda
+899,0929,8,"Satisfactorio, pero hay aspectos a mejorar"
+900,0930,1,
+901,0931,8,
+902,0932,10,Sobresaliente
+903,0933,8,Aceptable
+904,0934,0,No me gusto nada
+905,0935,3,No cumplieron mis expectativas
+906,0936,10,
+907,0937,8,
+908,0938,9,
+909,0939,10,Excelente
+910,0940,8,Aceptable
+911,0941,8,Podria mejorar
+912,0942,8,
+913,0943,9,
+914,0944,8,
+915,0945,0,Deficiente
+916,0946,6,No me gusto nada
+917,0947,10,Sobresaliente
+918,0948,8,Podria mejorar
+919,0949,10,Recomendaria sin duda
+920,0950,10,
+921,0951,7,
+922,0952,8,Aceptable
+923,0953,2,
+924,0954,8,
+925,0955,6,
+926,0956,3,
+927,0957,3,
+928,0958,7,"Satisfactorio, pero hay aspectos a mejorar"
+929,0959,4,Deficiente
+930,0960,7,Podria mejorar
+931,0961,0,No cumplieron mis expectativas
+932,0962,3,
+933,0963,8,Aceptable
+934,0964,1,
+935,0965,10,Sobresaliente
+936,0966,10,
+937,0967,5,
+938,0968,9,Recomendaria sin duda
+939,0969,10,Recomendaria sin duda
+940,0970,8,
+941,0971,4,No cumplieron mis expectativas
+942,0972,7,Podria mejorar
+943,0973,9,
+944,0974,2,
+945,0975,10,Sobresaliente
+946,0976,0,Deficiente
+947,0977,6,
+948,0978,10,
+949,0979,2,
+950,0980,10,
+951,0981,10,Sobresaliente
+952,0982,3,
+953,0983,1,No me gusto nada
+954,0984,6,
+955,0985,10,Recomendaria sin duda
+956,0986,9,
+957,0987,10,Sobresaliente
+958,0988,7,Podria mejorar
+959,0989,1,No me gusto nada
+960,0990,9,Excelente
+961,0991,8,
+962,0992,10,
+963,0993,1,
+964,0994,7,
+965,0995,0,
+966,0996,10,Excelente
+967,0997,10,Sobresaliente
+968,0998,7,
+969,0999,10,Recomendaria sin duda
+970,1000,7,Aceptable
+971,1001,3,
+972,1002,9,Recomendaria sin duda
+973,1003,6,No me gusto nada
+974,1004,2,No me gusto nada
+975,1005,7,Aceptable
+976,1006,10,Recomendaria sin duda
+977,1007,9,
+978,1008,7,Aceptable
+979,1009,6,
+980,1010,10,
+981,1011,10,
+982,1012,7,
+983,1013,0,Deficiente
+984,1014,10,Recomendaria sin duda
+985,1015,8,Aceptable
+986,1016,10,
+987,1017,10,Excelente
+988,1018,8,
+989,1019,7,Aceptable
+990,1020,7,
+991,1021,9,Sobresaliente
+992,1022,7,"Satisfactorio, pero hay aspectos a mejorar"
+993,1023,8,Podria mejorar
+994,1024,6,
+995,1025,0,No cumplieron mis expectativas
+996,1026,7,
+997,1027,0,No cumplieron mis expectativas
+998,1028,3,Deficiente
+999,1029,5,Deficiente
+1000,1030,2,
+1001,1031,7,Podria mejorar
