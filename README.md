@@ -34,8 +34,9 @@
 7. [Conclusión](#7-conclusión)
    - [7.1. Resumen de la solución](#71-resumen-de-la-solución)
    - [7.2. Beneficios esperados](#72-beneficios-esperados)
+---
 
-[Parte 2: Transformaciones de datos](#parte-2-transformaciones-datos-acmeipynb)
+[Parte 2: Transformaciones de datos](#parte-2-transformaciones-datos)
 
 ## 1. Introducción
 
@@ -131,5 +132,22 @@ El pipeline diseñado es escalable, eficiente y está alineado con los objetivos
 - Escalabilidad para soportar crecimiento futuro.
 - Mayor confiabilidad en la operación del pipeline.
 
-[Parte 2: Transformaciones de datos](#parte-2-transformaciones-datos-acmeipynb)
+## Parte 2: Transformaciones de datos
+
+- [Transformaciones con datos de ejemplo](https://github.com/nahiriv/data-engineering-challenge/blob/main/transformaciones-con-datos-de-ejemplo/transformaciones-con-datos-de-ejemplo.ipynb)
+Este notebook se basa sólo en los datos dados de ejemplo, para ilustrar cómo se procesan y transforman los datos. Sin embargo, este conjunto de datos resultó ser insuficiente para realizar pruebas extensas y cubrir diferentes casos de uso, ya que contenía muy pocas filas.
+
+Debido a esta limitación, se optó por incluir la siguiente sección: 
+
+- [Transformaciones con datos dummy](https://github.com/nahiriv/data-engineering-challenge/blob/main/transformaciones-con-dummy-data/transformaciones-con-datos-dummy.ipynb)
+que consiste en un conjunto de 1,000 filas en la tabla de interacciones. Estos datos permiten simular un escenario más amplio y realista. De este modo, se pueden detectar posibles errores y validar la efectividad del pipeline antes de su implementación en un entorno de producción.
+
+*Nota: Es importante mencionar que, si bien los scripts de procesamiento están actualmente organizados y documentados dentro de un notebook de Jupyter para una mejor comprensión y explicación del flujo de trabajo, estos también pueden ser ejecutados como scripts de Python independientes.*
+
+## Propuesta de incorporación
+La arquitectura Medallion se podría adaptar al pipeline, organizando el procesamiento en tres capas:
+
+- Capa Bronze (Datos crudos): Los datos se almacenan sin transformación en Cloud Storage para asegurar su disponibilidad y uso en auditoría.
+- Capa Silver (Transformación y limpieza): Se procesan, limpian y enriquecen los datos utilizando Cloud Data Fusion, preparando conjuntos de datos de calidad intermedia, almacenados en BigQuery o Cloud Storage.
+- Capa Gold (Datos analíticos): Se realizan transformaciones finales para crear conjuntos de datos optimizados para análisis y BI.
 
