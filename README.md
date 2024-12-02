@@ -1,7 +1,7 @@
 # Data Engineering Challenge
 
 ## Índice
-[Parte 1: Ingesta de Datos](#parte-1-ingesta-de-datos)
+- [Parte 1: Ingesta de Datos](#parte-1-ingesta-de-datos)
 1. [Introducción](#1-introducción)
    - [1.1. Contexto del problema](#11-contexto-del-problema)
    - [1.2. Objetivo de la solución](#12-objetivo-de-la-solución)
@@ -34,8 +34,8 @@
 7. [Conclusión](#7-conclusión)
    - [7.1. Resumen de la solución](#71-resumen-de-la-solución)
    - [7.2. Beneficios esperados](#72-beneficios-esperados)
-   - 
-[Parte 2: Transformaciones de datos](#parte-2-transformaciones-datos)
+
+- [Parte 2: Transformaciones de datos](#parte-2-transformaciones-de-datos)
 
 ## 1. Introducción
 
