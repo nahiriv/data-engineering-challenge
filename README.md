@@ -34,8 +34,7 @@
 7. [Conclusión](#7-conclusión)
    - [7.1. Resumen de la solución](#71-resumen-de-la-solución)
    - [7.2. Beneficios esperados](#72-beneficios-esperados)
----
-
+   - 
 [Parte 2: Transformaciones de datos](#parte-2-transformaciones-datos)
 
 ## 1. Introducción
